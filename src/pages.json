@@ -1,0 +1,25 @@
+{
+  "pages": [
+    {
+      "path": "pages/components/index",
+      "style": {
+        "navigationBarTitleText": "测试组件"
+      }
+    },
+    {
+      "path": "pages/wx-env/index",
+      "style": {
+        "navigationBarTitleText": "环境配置",
+        "navigationBarBackgroundColor": "#ffffff",
+        "navigationBarTextStyle": "black"
+      }
+    }
+  ],
+  "globalStyle": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "uni-app",
+    "navigationBarBackgroundColor": "#FFFFFF",
+    "backgroundColor": "#F8F8F8",
+    "enablePullDownRefresh": false
+  }
+}

@@ -1,0 +1,17 @@
+.gitlab/
+# docs/
+src/
+.eslintignore
+.eslintrc.js
+.gitignore
+.npmignore
+public/
+app.json
+build.package.js
+app.json
+mini.project.json
+package-lock.json
+postcss.config.js
+tsconfig.json
+vue.config.js
+yarn.lock
